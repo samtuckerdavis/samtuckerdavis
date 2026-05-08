@@ -1,5 +1,3 @@
-# Sam Tucker-Davis
-
 Builder at the intersection of AI and animal liberation.
 
 ---

@@ -22,9 +22,11 @@ One human operator. One pipeline. Produces at roughly **8× the throughput** of 
 
 Founded **VEG3** — AI marketing for vegan businesses, built on GPT-3 the year before ChatGPT. Placed 1st of 170+ teams in the ProVeg Incubator. Previously ran **Creative Compass**, a digital marketing agency for vegan businesses.
 
-Distributed 350,000+ leaflets with Vegan Outreach. Ran hackathons across 6 cities with a combined 1,000+ developers partcipating — Silicon Valley, London, Bengaluru, Mumbai, Berlin, Washington DC — and trained an additional 1,000+ activsts in AI for animal advocacy. Freestyle rapped for 22 hours straight trying to break a world record. Did not break the record.
+Distributed 350,000+ leaflets with Vegan Outreach. Ran hackathons across 6 cities with a combined 1,000+ developers partcipating — Silicon Valley, London, Bengaluru, Mumbai, Berlin, Washington DC — and trained an additional 1,000+ activsts in AI for animal advocacy. 
 
-18+ years in the movement.
+Freestyle rapped for 22 hours straight trying to break a world record. Did not break the record.
+
+18+ years in the animal advocacy movement.
 
 ---
 

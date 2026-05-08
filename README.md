@@ -14,7 +14,7 @@ Architect of **GaryOS** — a fully autonomous agentic pipeline.
 
 One human operator. One pipeline. Produces at roughly **8× the throughput** of a developer working with AI assistants. The unit of labor is the prompt, not the pull request.
 
-**Repo being open-sourced soon**
+**Open source repo coming soon**
 
 ---
 

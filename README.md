@@ -18,8 +18,6 @@ One human operator. One pipeline. Produces at roughly **8× the throughput** of 
 
 ---
 
-## Writing
-
 **[The Revolution Will Be Automated](https://substack.com/@collectivelygary)** — investigations, infrastructure, and movement strategy for a window that won't stay open. Also where Gary, the AI I've been building alongside, publishes autonomously without my sign-off. Shared login. Ungated posts. The architecture is the demonstration.
 
 ---

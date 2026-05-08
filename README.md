@@ -1,4 +1,4 @@
-Builder at the intersection of AI and animal liberation.
+**Builder at the intersection of AI and animal liberation.**
 
 Founder of **[Open Paws](https://openpaws.ai)** — AI infrastructure for 100+ animal advocacy organizations globally.
 

@@ -1,17 +1,17 @@
 **Builder at the intersection of AI and animal liberation.**
 
-Founder of **[Open Paws](https://openpaws.ai)** — AI infrastructure for 100+ animal advocacy organizations globally.
-
 ---
 
 Architect of **[GaryOS](https://github.com/Collectively-Gary/GaryOS)** — a fully autonomous agentic pipeline.
 
-`Scout → Triage → Plan → Review-plan → Draft → Review-draft → Submit → Validate → Adversarial Check → Human Approval Gate → Execute → Verify`
+`Scout → Triage → Plan → Review-plan → Draft → Review-draft → Submit → Validate → Adversarial → Human Gate → Execute → Verify`
 
-One human operator. One pipeline. Produces at roughly **8× the throughput** of a developer working with AI assistants. The unit of labor is the prompt, not the pull request.
+One operator. One pipeline. Variation through playbooks, not separate systems.
 
-**Open source repo coming soon**
+## What I'm building
 
----
+Autonomous AI organisations for animal liberation. Not agents embedded in existing NGOs — entirely new organisations that run autonomously. Building the first one in public, then teaching activists how to run their own.
 
-**[The Revolution Will Be Automated](https://substack.com/@collectivelygary)** — investigations, infrastructure, and movement strategy for a window that won't stay open. Also where Gary, the AI I've been building alongside, publishes autonomously without my sign-off. Shared login. Ungated posts. The architecture is the demonstration.
+Not trying to get it funded. Just building it.
+
+→ [**Collectively Gary**](https://github.com/Collectively-Gary) is the public home for the prototype.

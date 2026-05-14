@@ -1,4 +1,4 @@
-**Builder at the intersection of AI and animal liberation.**
+## **Builder at the intersection of AI and animal liberation.**
 
 ---
 

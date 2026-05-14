@@ -4,7 +4,7 @@ Founder of **[Open Paws](https://openpaws.ai)** — AI infrastructure for 100+ a
 
 ---
 
-Architect of **GaryOS** — a fully autonomous agentic pipeline.
+Architect of **[GaryOS](https://github.com/Collectively-Gary/GaryOS)** — a fully autonomous agentic pipeline.
 
 `Scout → Triage → Plan → Review-plan → Draft → Review-draft → Submit → Validate → Adversarial Check → Human Approval Gate → Execute → Verify`
 

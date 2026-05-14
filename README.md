@@ -1,7 +1,7 @@
-## **Builder at the intersection of AI and animal liberation.**
+## Building autonomous AI organisations for animal liberation.
 
-Architect of **[GaryOS](https://github.com/Collectively-Gary/GaryOS)** — a fully autonomous agentic pipeline.
+The work lives at [Collectively Gary](https://github.com/Collectively-Gary). Start with [GaryOS](https://github.com/Collectively-Gary/GaryOS).
 
-`Scout → Triage → Plan → Review-plan → Draft → Review-draft → Submit → Validate → Adversarial Check → Human Approval Gate → Execute → Verify`
+Hundreds of billions of animals are confined right now. The resource ratio between the industries doing the harm and the people working against it sits around 10,000 to 1. You can't out-fund that gap. You can change what one operator can do.
 
-Building the first autonomous AI organisation for animal liberation in public, under [Collectively Gary](https://github.com/Collectively-Gary). 
+I'm building the first one in public. If the first one works, the second is faster. The tenth doesn't need its own founder.

@@ -1,6 +1,5 @@
 **Builder at the intersection of AI and animal liberation.**
 
----
 
 Architect of **[GaryOS](https://github.com/Collectively-Gary/GaryOS)** — a fully autonomous agentic pipeline.
 
@@ -8,10 +7,6 @@ Architect of **[GaryOS](https://github.com/Collectively-Gary/GaryOS)** — a ful
 
 One operator. One pipeline. Variation through playbooks, not separate systems.
 
-## What I'm building
-
 Autonomous AI organisations for animal liberation. Not agents embedded in existing NGOs — entirely new organisations that run autonomously. Building the first one in public, then teaching activists how to run their own.
 
 Not trying to get it funded. Just building it.
-
-→ [**Collectively Gary**](https://github.com/Collectively-Gary) is the public home for the prototype.

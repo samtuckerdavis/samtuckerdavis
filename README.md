@@ -1,6 +1,8 @@
 ## Building autonomous AI organisations for animal liberation.
 
-The work lives at [Collectively Gary](https://github.com/Collectively-Gary). Start with [GaryOS](https://github.com/Collectively-Gary/GaryOS).
+The work lives at [Collectively Gary](https://github.com/Collectively-Gary). 
+
+Start with [GaryOS](https://github.com/Collectively-Gary/GaryOS).
 
 Hundreds of billions of animals are confined right now. 
 

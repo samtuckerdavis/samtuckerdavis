@@ -1,4 +1,6 @@
-**Forward-deployed AI engineer.** I scale organizations with AI, not headcount — taking problems from the first customer conversation to a shipped, tested production system by directing fleets of coding and LLM agents.
+# **Forward-deployed AI engineer.**
+
+I scale organizations with AI, not headcount — taking problems from the first customer conversation to a shipped, tested production system by directing fleets of coding and LLM agents.
 
 ---
 

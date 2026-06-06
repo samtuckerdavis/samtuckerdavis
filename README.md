@@ -6,7 +6,7 @@ I scale organizations with AI, not headcount — taking problems from the first 
 
 ## What I'm building now
 
-**Collectively Gary** — a prototype for autonomous AI organizations in animal advocacy. Not agents bolted onto existing orgs: entirely new organizations that run themselves. The thesis is that one operator directing a well-designed agent pipeline can do the work of a team — and that the substrate can be taught to the movement rather than sold to it. Building in public, at the unfundable frontier.
+**Collectively Gary** — a prototype for autonomous AI organizations in animal advocacy. Not agents bolted onto existing orgs: entirely new organizations that run themselves. 
 
 → **[GaryOS](https://github.com/Collectively-Gary/GaryOS)** — the pipeline itself. ~6k lines of orchestrator, a 12-stage / 7-playbook dispatcher, filesystem-as-state with atomic-rename transitions, stage-scoped credential isolation against prompt injection. Spawns short-lived coding agents per task; a human approves only the decisions the pipeline surfaces.
 

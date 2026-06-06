@@ -8,11 +8,15 @@ I scale organizations with AI, not headcount — taking problems from the first 
 
 **Collectively Gary** — a prototype for autonomous AI organizations in animal advocacy. Not agents bolted onto existing orgs: entirely new organizations that run themselves. The thesis is that one operator directing a well-designed agent pipeline can do the work of a team — and that the substrate can be taught to the movement rather than sold to it. Building in public, at the unfundable frontier.
 
+→ **[GaryOS](https://github.com/Collectively-Gary/GaryOS)** — the pipeline itself. ~6k lines of orchestrator, a 12-stage / 7-playbook dispatcher, filesystem-as-state with atomic-rename transitions, stage-scoped credential isolation against prompt injection. Spawns short-lived coding agents per task; a human approves only the decisions the pipeline surfaces.
+
 ## Selected work
 
-- **Built autonomous outreach agents with measurable outcomes at near-zero cost** — 678 researched, personalized emails for $40.68 → 8 commitments; an institutional version secured 9 policy commitments in 9 days, including a state legislator drafting a bill.
+- **Shipped full-stack production systems end-to-end, solo.** A campaign-intelligence platform for a UK advocacy org — ~120k lines, 50+ data collectors, an LLM enrichment pipeline, 430+ merged PRs in five months. A full LMS with per-student API-key provisioning and weekly spend caps. An autonomous deal-scouting dashboard for a commercial real-estate investor.
 
-- **Agent-directed code merged into Webpack and MDN** — 75+ pull requests landed in a single day by an autonomous agent I built, calibrated against historical merge rates to land at scale instead of spamming maintainers.
+- **Built an agent that contributes to open source at scale — and lands.** An orchestrator that scans, drafts, dedups, and triages upstream PRs across ~150 repositories, calibrated against historical merge rates to contribute rather than spam. Substantive merges into **[Babel](https://github.com/babel/babel/pull/17830)** (43.9k★), **[Faker.js](https://github.com/faker-js/faker/pull/3745)**, **[Wger](https://github.com/wger-project/wger/pull/2218)** (Django schema + migrations), **[pyinaturalist](https://github.com/pyinat/pyinaturalist/pull/678)** (new API controller), **[OpenStates](https://github.com/openstates/openstates-scrapers/pull/5602)**, TandoorRecipes, OpenFoodFacts, and MDN Web Docs.
+
+- **Built autonomous outreach with measurable outcomes at near-zero cost** — 678 researched, personalized emails for $40.68, yielding 8 commitments from target organizations.
 
 - **Wrote "non-human welfare" into the EU AI Act** — adopted into the General-Purpose AI Code of Practice signed by major AI labs.
 

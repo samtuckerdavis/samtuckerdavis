@@ -18,6 +18,6 @@ I scale organizations with AI, not headcount — taking problems from the first 
 
 - **Built autonomous outreach with measurable outcomes at near-zero cost** — 678 researched, personalized emails for $40.68, yielding 8 commitments from target organizations.
 
-- **Contributed to adding consideration for "non-human welfare" into the EU AI Act** — adopted into the General-Purpose AI Code of Practice signed by major AI labs.
-
 - **Published LLM-safety research at ACM FAccT 2025** — co-authored AnimalHarmBench, then retrained the worst-scoring model on the benchmark into the best-performing one, with no loss of general language ability.
+
+- **Contributed to adding consideration for "non-human welfare" into the EU AI Act** — adopted into the General-Purpose AI Code of Practice signed by major AI labs.
